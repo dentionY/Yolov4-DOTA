@@ -1,0 +1,3 @@
+1、放在了autodl目录下，安装见<[训练DOTA-HBB主方案]ing-source code>
+2、运行前参考《完整目录框架》
+3、参考<[训练DOTA-HBB主方案]ing-source code>确定存放数据集的路径，因为数据集文件太大！

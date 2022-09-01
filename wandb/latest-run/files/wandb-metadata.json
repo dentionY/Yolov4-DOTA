@@ -1,0 +1,29 @@
+{
+    "os": "Linux-5.4.0-81-generic-x86_64-with-glibc2.17",
+    "python": "3.8.10",
+    "heartbeatAt": "2022-08-25T06:15:41.345575",
+    "startedAt": "2022-08-25T06:15:38.094688",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 56,
+    "cuda": null,
+    "args": [
+        "--data",
+        "/root/autodl-tmp/yolo-master/dota_data/dota_name.yaml",
+        "--epochs",
+        "3000",
+        "--weights",
+        " ",
+        "--cfg",
+        "/root/autodl-tmp/yolo-master/dota_data/yolov4.yaml",
+        "--img",
+        "256"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "host": "container-836911b1ac-c285fbef",
+    "username": "root",
+    "executable": "/root/miniconda3/bin/python"
+}

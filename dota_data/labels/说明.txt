@@ -1,0 +1,3 @@
+这两个文件夹都是空文件
+1、需要从./[训练DOTA-HBB-第一主案]pytorch视角/[1-直接下载的分割好的数据集]DOTA_split/trainsplit/labels拷贝所有图片到train文件夹下；
+2、需要从./[训练DOTA-HBB-第一主案]pytorch视角/[1-直接下载的分割好的数据集]DOTA_split/valsplit/labels拷贝所有图片到val文件夹下；

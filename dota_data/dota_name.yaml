@@ -1,0 +1,22 @@
+# PASCAL VOC dataset http://host.robots.ox.ac.uk/pascal/VOC/
+# Download command: bash ./data/get_voc.sh
+# Train command: python train.py --data voc.yaml
+# Default dataset location is next to /yolov5:
+#   /parent_folder
+#     /VOC
+#     /yolov5
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+
+# original format
+train: dota_data/images/train/   # 图片和label路径
+val: dota_data/images/val/  
+#train: DOTA_split/images/train/
+#val: DOTA_split/images/val/
+
+# number of classes
+nc: 15
+
+# class names
+names: ['small-vehicle', 'large-vehicle', 'plane', 'storage-tank', 'ship', 'harbor', 'ground-track-field', 'soccer-ball-field', 'tennis-court', 'swimming-pool', 'baseball-diamond', 'roundabout', 'basketball-court', 'bridge', 'helicopter']

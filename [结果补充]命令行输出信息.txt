@@ -1,0 +1,419 @@
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  507/2999     9.06G    0.1023   0.02584   0.00581        83       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59810      0.727      0.564      0.587      0.337
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  508/2999     9.06G    0.1021   0.02498  0.005339        56       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:50<00:00,  1.11it/s]    
+                 all       5297      59812      0.729      0.564      0.588      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  509/2999     9.06G    0.1014   0.02522  0.006097        46       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:50<00:00,  1.11it/s]    
+                 all       5297      59812      0.723      0.567      0.588      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  510/2999     9.06G    0.1034   0.02627  0.006192       121       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59812      0.719      0.568      0.586      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  511/2999     9.06G    0.1017   0.02491  0.005129        86       256: 100%|██████████| 329/329 [05:09<00:00,  1.06it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59812      0.722      0.568      0.587      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  512/2999     9.06G    0.1009   0.02492  0.005125        70       256: 100%|██████████| 329/329 [05:08<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:48<00:00,  1.14it/s]    
+                 all       5297      59812      0.723      0.567      0.586      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  513/2999     9.06G    0.1014   0.02487  0.004868        94       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59814      0.721      0.566      0.585      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  514/2999     9.06G    0.1013   0.02453  0.004809       654       256:  30%|██▉       | 98/329 [01:31<03:35,  1.07it/s]                   wandb: Network error (ConnectTimeout), entering retry loop.
+  514/2999     9.06G    0.1012   0.02455  0.004855        11       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:50<00:00,  1.12it/s]    
+                 all       5297      59814       0.73      0.561      0.584      0.335
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  515/2999     9.06G    0.1014   0.02494  0.004936       632       256:  82%|████████▏ | 269/329 [04:11<00:56,  1.07it/s]                  wandb: Network error (ConnectTimeout), entering retry loop.
+  515/2999     9.06G    0.1011   0.02492  0.004942        64       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59814      0.717      0.569      0.585      0.335
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  516/2999     9.06G    0.1017   0.02499  0.004941       847       256:  37%|███▋      | 121/329 [01:52<03:14,  1.07it/s]                  wandb: Network error (ConnectionError), entering retry loop.
+  516/2999     9.06G    0.1017   0.02459  0.004807       837       256:  99%|█████████▉| 325/329 [05:03<00:03,  1.07it/s]                  wandb: Network error (ConnectTimeout), entering retry loop.
+  516/2999     9.06G    0.1017   0.02463  0.004799        75       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59814      0.728      0.562      0.584      0.335
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  517/2999     9.06G    0.1021   0.02539  0.005853       944       256:   4%|▎         | 12/329 [00:11<04:54,  1.08it/s]                   wandb: Network error (ConnectTimeout), entering retry loop.
+  517/2999     9.06G    0.1018   0.02498  0.005059       971       256:  17%|█▋        | 55/329 [00:51<04:15,  1.07it/s]                   wandb: Network error (ReadTimeout), entering retry loop.
+  517/2999     9.06G    0.1016   0.02509  0.006161      1309       256:  51%|█████     | 168/329 [02:37<02:30,  1.07it/s]                  wandb: Network error (ConnectTimeout), entering retry loop.
+  517/2999     9.06G    0.1022   0.02585  0.006947        61       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59814      0.739      0.556      0.584      0.334
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  518/2999     9.06G    0.1026   0.02567   0.00607        42       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59814      0.737      0.556      0.582      0.333
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  519/2999     9.06G    0.1024   0.02548  0.005253       100       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59814      0.716      0.555       0.58      0.332
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  520/2999     9.06G    0.1013   0.02507  0.004957        51       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59814      0.741      0.543      0.581      0.332
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  521/2999     9.06G    0.1023   0.02508  0.005283        47       256: 100%|██████████| 329/329 [05:08<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59814      0.724      0.551      0.581      0.332
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  522/2999     9.06G    0.1014   0.02484  0.004895       217       256: 100%|██████████| 329/329 [05:08<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59814      0.738      0.544       0.58      0.332
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  523/2999     9.06G    0.1019   0.02444  0.004671        77       256: 100%|██████████| 329/329 [05:09<00:00,  1.06it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59814      0.739      0.544       0.58      0.332
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  524/2999     9.06G    0.1015   0.02446  0.004977        23       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59814      0.737      0.545       0.58      0.332
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  525/2999     9.06G    0.1013   0.02534  0.005295        68       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59812       0.71      0.559       0.58      0.332
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  526/2999     9.06G    0.1011   0.02473  0.004876        61       256: 100%|██████████| 329/329 [05:05<00:00,  1.08it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59811      0.711      0.558       0.58      0.332
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  527/2999     9.06G    0.1006   0.02484  0.004827        33       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:51<00:00,  1.10it/s]    
+                 all       5297      59811      0.705      0.561       0.58      0.332
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  528/2999     9.06G    0.1012    0.0248  0.004825        34       256: 100%|██████████| 329/329 [05:09<00:00,  1.06it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59809      0.705      0.562      0.581      0.333
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  529/2999     9.06G    0.1018   0.02514  0.004858        28       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59809      0.707      0.559      0.581      0.333
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  530/2999     9.06G    0.1017   0.02467  0.004804       223       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:50<00:00,  1.12it/s]    
+                 all       5297      59809       0.69      0.573      0.581      0.333
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  531/2999     9.06G    0.1006   0.02527  0.004231       593       256:   9%|▊         | 28/329 [00:26<04:40,  1.07it/s]                   wandb: Network error (ConnectTimeout), entering retry loop.
+  531/2999     9.06G    0.1007   0.02485   0.00485        26       256: 100%|██████████| 329/329 [05:08<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59811      0.689      0.575      0.581      0.334
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  532/2999     9.06G    0.1007   0.02463  0.004694        46       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59811      0.691      0.577      0.581      0.334
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  533/2999     9.06G    0.1014   0.02488  0.004777        26       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59811      0.692      0.578      0.581      0.334
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  534/2999     9.06G    0.1018   0.02481  0.004741        58       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59811      0.712      0.567      0.582      0.335
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  535/2999     9.06G    0.1017   0.02477  0.004672        66       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:50<00:00,  1.11it/s]    
+                 all       5297      59811      0.715      0.565      0.582      0.335
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  536/2999     9.06G    0.1012   0.02445  0.004773        36       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59811      0.713      0.566      0.581      0.335
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  537/2999     9.06G    0.1007   0.02483  0.004816        43       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59811      0.723      0.562      0.583      0.335
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  538/2999     9.06G    0.1013   0.02481  0.004678        26       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:48<00:00,  1.15it/s]    
+                 all       5297      59811      0.724      0.562      0.582      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  539/2999     9.06G    0.1017     0.025  0.004946        35       256: 100%|██████████| 329/329 [05:05<00:00,  1.08it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59811      0.727      0.561      0.583      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  540/2999     9.06G    0.1019   0.02562  0.006264       105       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59811      0.724      0.561      0.582      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  541/2999     9.06G    0.1044   0.02778  0.008706        33       256: 100%|██████████| 329/329 [05:08<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59811      0.716      0.564      0.582      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  542/2999     9.06G    0.1029   0.02592  0.006351        68       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59811       0.71      0.569      0.583      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  543/2999     9.06G    0.1022   0.02545  0.005055        18       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59811      0.711      0.569      0.584      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  544/2999     9.06G    0.1015   0.02461   0.00492        74       256: 100%|██████████| 329/329 [05:08<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:50<00:00,  1.12it/s]    
+                 all       5297      59811      0.715      0.567      0.584      0.336
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  545/2999     9.06G    0.1013   0.02494  0.004854        70       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:48<00:00,  1.15it/s]    
+                 all       5297      59811      0.736      0.556      0.585      0.337
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  546/2999     9.06G    0.1009   0.02449   0.00486        70       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59810      0.715      0.568      0.585      0.337
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  547/2999     9.06G     0.101    0.0246  0.004835       143       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59811      0.714      0.569      0.586      0.337
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  548/2999     9.06G    0.1008   0.02439  0.004993        44       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59810       0.72      0.566      0.586      0.337
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  549/2999     9.06G    0.1011   0.02477  0.004766       121       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59810      0.724      0.563      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  550/2999     9.06G    0.1013   0.02484  0.004805        69       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59810      0.726      0.562      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  551/2999     9.06G    0.1002   0.02456  0.004565        47       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59810      0.729      0.561      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  552/2999     9.06G    0.1004    0.0245  0.004798       112       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59810      0.724      0.563      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  553/2999     9.06G    0.1009   0.02437  0.004617        68       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59810      0.706      0.573      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  554/2999     9.06G    0.1007   0.02539  0.004947        59       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59810      0.709       0.57      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  555/2999     9.06G    0.1013   0.02468  0.005028       336       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:48<00:00,  1.15it/s]    
+                 all       5297      59810      0.707      0.573      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  556/2999     9.06G    0.1016   0.02474  0.004958        35       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59810      0.708      0.572      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  557/2999     9.06G    0.1012   0.02442  0.004656        34       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95:  93%|█████████▎| 52/56 [00:46<00:03,  1.14it/s]    wandb: Network error (ConnectTimeout), entering retry loop.
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59810       0.71      0.572      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  558/2999     9.06G   0.09955   0.02382  0.004575       704       256:  12%|█▏        | 40/329 [00:37<04:29,  1.07it/s]                   wandb: Network error (ConnectTimeout), entering retry loop.
+  558/2999     9.06G    0.1008   0.02473  0.004596       100       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59808      0.712      0.571      0.586      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  559/2999     9.06G    0.1013   0.02455  0.004788        49       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59807      0.709      0.572      0.587      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  560/2999     9.06G    0.1022   0.02479  0.004797       823       256:  43%|████▎     | 143/329 [02:13<02:53,  1.07it/s]                  wandb: Network error (ConnectTimeout), entering retry loop.
+  560/2999     9.06G    0.1014   0.02474  0.004767        19       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59807       0.71      0.573      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  561/2999     9.06G    0.1012   0.02473  0.004774       113       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59807       0.71      0.572      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  562/2999     9.06G    0.1007   0.02462   0.00482        85       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59807      0.711      0.572      0.586      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  563/2999     9.06G    0.1009     0.025  0.004669        79       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:48<00:00,  1.15it/s]    
+                 all       5297      59808      0.712      0.571      0.586      0.338
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  564/2999     9.06G    0.1017   0.02497  0.005007        70       256: 100%|██████████| 329/329 [05:06<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:48<00:00,  1.15it/s]    
+                 all       5297      59808      0.712      0.571      0.586      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  565/2999     9.06G    0.1019    0.0249    0.0047       115       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:51<00:00,  1.09it/s]    
+                 all       5297      59808      0.713       0.57      0.586      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  566/2999     9.06G    0.1022   0.02518  0.005203        63       256: 100%|██████████| 329/329 [05:08<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59808      0.715      0.567      0.585      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  567/2999     9.06G    0.1015   0.02489  0.005049        49       256: 100%|██████████| 329/329 [05:08<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59809      0.714      0.569      0.586      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  568/2999     9.06G    0.1023   0.02582  0.006269         7       256: 100%|██████████| 329/329 [05:08<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95:  55%|█████▌    | 31/56 [00:27<00:22,  1.09it/s]    wandb: Network error (ConnectTimeout), entering retry loop.
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:48<00:00,  1.15it/s]    
+                 all       5297      59809      0.707      0.572      0.586      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  569/2999     9.06G    0.1012    0.0249  0.005227       714       256:  39%|███▉      | 128/329 [01:59<03:07,  1.07it/s]                  wandb: Network error (ConnectTimeout), entering retry loop.
+  569/2999     9.06G    0.1016   0.02509  0.005097      1200       256:  63%|██████▎   | 207/329 [03:13<01:54,  1.07it/s]                  wandb: Network error (ConnectTimeout), entering retry loop.
+  569/2999     9.06G    0.1019   0.02506  0.005005       136       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:48<00:00,  1.15it/s]    
+                 all       5297      59811       0.71       0.57      0.585      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  570/2999     9.06G    0.1014   0.02463  0.004804        57       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.13it/s]    
+                 all       5297      59811      0.717      0.565      0.585      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  571/2999     9.06G    0.1015   0.02446  0.004885        15       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:48<00:00,  1.14it/s]    
+                 all       5297      59811      0.717      0.565      0.585      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  572/2999     9.06G    0.1009   0.02462  0.004638       591       256:  10%|█         | 34/329 [00:31<04:35,  1.07it/s]                   wandb: Network error (ConnectTimeout), entering retry loop.
+  572/2999     9.06G    0.1012   0.02497  0.004651        56       256: 100%|██████████| 329/329 [05:07<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:48<00:00,  1.14it/s]    
+                 all       5297      59811      0.718      0.565      0.585      0.339
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+  573/2999     9.06G    0.1013   0.02484  0.004554        49       256: 100%|██████████| 329/329 [05:08<00:00,  1.07it/s]                  
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [00:49<00:00,  1.14it/s]    
+                 all       5297      59811      0.717      0.565      0.585      0.339
+Stopping training early as no improvement observed in last 100 epochs. Best results observed at epoch 473, best model saved as best.pt.
+To update EarlyStopping(patience=100) pass a new patience value, i.e. `python train.py --patience 300` or use `--patience 0` to disable EarlyStopping.
+
+574 epochs completed in 57.592 hours.
+Optimizer stripped from runs/exp/weights/last.pt, 121.5MB
+Optimizer stripped from runs/exp/weights/best.pt, 121.5MB
+
+Validating runs/exp/weights/best.pt...
+Fusing layers... 
+yolov4 summary: 440 layers, 60466580 parameters, 0 gradients, 130.9 GFLOPs
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95:  93%|█████████▎| 52/56 [01:16<00:04,  1.24s/it]    wandb: Network error (ConnectTimeout), entering retry loop.
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 56/56 [01:19<00:00,  1.43s/it]    
+                 all       5297      59804      0.719      0.571       0.59      0.339
+       small-vehicle       5297      10828      0.595      0.432       0.41      0.202
+       large-vehicle       5297       9256      0.753      0.653      0.687      0.406
+               plane       5297       5298      0.871      0.849      0.872      0.604
+        storage-tank       5297       5012      0.888      0.417      0.481      0.277
+                ship       5297      19571      0.786      0.552      0.644      0.332
+              harbor       5297       4788      0.786      0.784       0.78       0.38
+  ground-track-field       5297        316      0.791      0.424      0.519      0.257
+   soccer-ball-field       5297        347      0.703      0.473      0.473      0.278
+        tennis-court       5297       1602      0.798      0.878      0.893      0.736
+       swimming-pool       5297        763      0.685      0.611       0.55      0.232
+    baseball-diamond       5297        403      0.764      0.695      0.726      0.388
+          roundabout       5297        293      0.771      0.468      0.516      0.266
+    basketball-court       5297        297      0.542      0.401      0.439        0.3
+              bridge       5297        896      0.579      0.455      0.417      0.166
+          helicopter       5297        134      0.469      0.467      0.448      0.263
+wandb: Waiting for W&B process to finish... (success).
+wandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb:      metrics/mAP_0.5 ▁▃▆▆▇▇▇▇▇▇▇█████████████████████████████
+wandb: metrics/mAP_0.5:0.95 ▁▃▅▆▆▆▆▆▇▇▇▇▇▇▇▇████████████████████████
+wandb:    metrics/precision ▇▁▅▅▆▇▇▆▇▇██▇▇▇▇██▇▇▇▇▇▇█▇▇█▇██▇▇▇█▇▇▇▇▇
+wandb:       metrics/recall ▁▃▅▆▆▆▆▇▇▇▇▇▇▇██▇███████████████████████
+wandb:       train/box_loss █▆▅▄▄▃▃▃▃▃▃▃▂▃▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▂▂▂▁▁
+wandb:       train/cls_loss █▅▄▃▃▃▂▃▂▂▂▂▂▃▂▂▂▂▂▂▂▁▂▁▁▁▁▂▁▁▂▂▂▁▁▂▁▁▁▁
+wandb:       train/obj_loss █▇▆▆▆▅▅▄▄▄▄▅▄▆▃▃▃▃▃▄▂▃▃▂▂▂▂▃▂▂▃▂▃▂▁▃▂▁▁▁
+wandb:         val/box_loss █▅▃▃▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb:         val/cls_loss █▄▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb:         val/obj_loss █▇▆▅▄▃▁▂▃▃▃▂▂▂▂▂▂▃▃▄▅▅▅▅▅▅▆▆▇▆▆▇▇███▇█▇█
+wandb:                x/lr0 ███▇▇▇▇▇▇▆▆▆▆▆▆▅▅▅▅▅▅▄▄▄▄▄▃▃▃▃▃▃▂▂▂▂▂▁▁▁
+wandb:                x/lr1 ███▇▇▇▇▇▇▆▆▆▆▆▆▅▅▅▅▅▅▄▄▄▄▄▃▃▃▃▃▃▂▂▂▂▂▁▁▁
+wandb:                x/lr2 ███▇▇▇▇▇▇▆▆▆▆▆▆▅▅▅▅▅▅▄▄▄▄▄▃▃▃▃▃▃▂▂▂▂▂▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:           best/epoch 473
+wandb:         best/mAP_0.5 0.59052
+wandb:    best/mAP_0.5:0.95 0.33932
+wandb:       best/precision 0.719
+wandb:          best/recall 0.57074
+wandb:      metrics/mAP_0.5 0.59042
+wandb: metrics/mAP_0.5:0.95 0.33913
+wandb:    metrics/precision 0.71865
+wandb:       metrics/recall 0.5706
+wandb:       train/box_loss 0.10126
+wandb:       train/cls_loss 0.00455
+wandb:       train/obj_loss 0.02484
+wandb:         val/box_loss 0.08645
+wandb:         val/cls_loss 0.00941
+wandb:         val/obj_loss 0.01825
+wandb:                x/lr0 0.00811
+wandb:                x/lr1 0.00811
+wandb:                x/lr2 0.00811
+wandb: 
+wandb: Synced copper-gorge-5: https://wandb.ai/dention/runs/runs/3ixp7thm
+wandb: Synced 5 W&B file(s), 49 media file(s), 1 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20220825_141538-3ixp7thm/logs
+Results saved to runs/exp

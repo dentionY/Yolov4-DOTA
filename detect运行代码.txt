@@ -1,0 +1,3 @@
+
+
+python37 detect.py --source ./inference/images/8.jpg --weights weights/200epoch_weights.pt  --output ./inference/output
